@@ -1,0 +1,6 @@
+ul#kota li{
+    color:blue;
+}
+ul#kota li.favorit{
+   color:red;
+}
